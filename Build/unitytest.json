@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "SELF",
 "productName": "calcexport",
-"productVersion": "0.1",
+"productVersion": "1.1",
 "dataUrl": "unitytest.data.unityweb",
 "wasmCodeUrl": "unitytest.wasm.code.unityweb",
 "wasmFrameworkUrl": "unitytest.wasm.framework.unityweb",
